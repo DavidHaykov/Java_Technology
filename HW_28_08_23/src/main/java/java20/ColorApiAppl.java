@@ -27,6 +27,7 @@ public class ColorApiAppl {
             Arrays.stream(body.result.colors.foreground_colors).forEach(System.out::println);
             System.out.println("===============================\n");
             System.out.println("Image colors:\n");
+
             Arrays.stream(body.result.colors.image_colors).forEach(System.out::println);
         }
 
