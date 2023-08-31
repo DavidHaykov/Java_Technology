@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="887b9c65-7c20-4e84-88d5-ab6299433c0c" name="Changes" comment="Ready HW">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo_" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test" beforeDir="false" afterPath="$PROJECT_DIR$/../Test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -77,6 +80,7 @@
       <workItem from="1693251260904" duration="796000" />
       <workItem from="1693252076571" duration="117000" />
       <workItem from="1693252465891" duration="942000" />
+      <workItem from="1693254469163" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="Stating HW">
       <created>1693250490321</created>
@@ -113,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693253774995</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ready HW">
+      <created>1693254472543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693254472543</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

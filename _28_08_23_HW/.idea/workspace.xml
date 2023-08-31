@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b8c051-c316-46a5-a2f4-3f6ce90920f9" name="Changes" comment="Ready HW" />
+    <list default="true" id="11b8c051-c316-46a5-a2f4-3f6ce90920f9" name="Changes" comment="Ready HW">
+      <change beforePath="$PROJECT_DIR$/../Demo_" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_28_08_23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_28_08_23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test" beforeDir="false" afterPath="$PROJECT_DIR$/../Test" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +64,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/davidhajkov/Documents/Prog/JAVA-20-TECHNOLOGY/_28_08_23_HW",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "f8befe9e1368e9964407bf0d9d30a8c9"
   }
 }]]></component>
@@ -79,6 +84,7 @@
       <workItem from="1693246782628" duration="3015000" />
       <workItem from="1693250036283" duration="989000" />
       <workItem from="1693251849210" duration="221000" />
+      <workItem from="1693494985436" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="Ready HW">
       <created>1693250062153</created>
@@ -118,6 +124,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Ready HW" />
     <option name="LAST_COMMIT_MESSAGE" value="Ready HW" />
   </component>

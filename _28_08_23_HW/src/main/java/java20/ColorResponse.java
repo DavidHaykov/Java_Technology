@@ -18,6 +18,7 @@ class ColorPalette{
         public ColorData[] background_colors;
         public ColorData[] foreground_colors;
         public ColorData[] image_colors;
+
 }
 
 class ColorData{
