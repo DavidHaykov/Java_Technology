@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80d3bd0f-2cc4-4d3e-9afa-e93bf388f4e3" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo_" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test" beforeDir="false" afterPath="$PROJECT_DIR$/../Test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_28_08_23_HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_28_08_23_HW/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/davidhajkov/Documents/Prog/JAVA-20-TECHNOLOGY/_21_08_23_CW/src/main/java/telran/book/example",
+    "last_opened_file_path": "/Users/davidhajkov/Documents/Prog/JAVA-20-TECHNOLOGY/_21_08_23_CW",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -68,6 +70,7 @@
       <workItem from="1692631557595" duration="11428000" />
       <workItem from="1692889439534" duration="7201000" />
       <workItem from="1693234983387" duration="2768000" />
+      <workItem from="1693495805910" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1692645826933</created>
